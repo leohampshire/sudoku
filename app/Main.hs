@@ -4,7 +4,7 @@ import Lib
 import Objetos
 
 main :: IO Jogo
-main = someFunc2
+main = runSudoku
 --main = do
 --  let jogo = 1
 
